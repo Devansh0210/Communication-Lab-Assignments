@@ -1,0 +1,3 @@
+Looking forward to learn about different type of Signals
+Excited to simulate end to end CommSys
+Applying knowledge of CommSys in SDRs
