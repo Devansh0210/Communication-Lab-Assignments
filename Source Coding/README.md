@@ -1,5 +1,5 @@
 # Source Coding
-1. Shannon Fano Coding
+### 1. Shannon Fano Coding
 ```julia
 begin
 	code1 = shannonFano([0.10, 0.15, 0.30, 0.16, 0.29])
@@ -8,7 +8,7 @@ end
 ```
 ![image](https://user-images.githubusercontent.com/51352071/132711109-4c2ddc29-f4b5-4d35-82eb-464f71c7e259.png)
 
-2. Huffman Coding
+### 2. Huffman Coding
 ```julia
 begin
 	s = huffman([0.10, 0.15, 0.30, 0.16, 0.29])
